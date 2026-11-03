@@ -1,0 +1,6 @@
+{
+  "name": "TKJ SMKN 1 Bagor - Profil Kejuruan Masa Depan",
+  "description": "Website resmi profil Jurusan Teknik Komputer dan Jaringan SMK Negeri 1 Bagor. Membentuk Arsitek Digital Masa Depan dengan kurikulum industri berstandar Cisco, MikroTik, dan Cyber Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
